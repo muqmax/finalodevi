@@ -1,0 +1,2 @@
+# finalodevi
+yazılımmuhoryantasyon
