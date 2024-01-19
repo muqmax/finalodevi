@@ -1,4 +1,4 @@
-Yazılım Mühendisliği
+
 Yazılım Mühendisliği Oryantasyon Dersi Final 
 2024-Güz
 Kodlama Dili: Java
